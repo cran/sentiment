@@ -1,0 +1,14 @@
+602b68674afa2b2a9bfb351e6cde42e9 *ChangeLog
+d402cdf7eb22d4423c7adafe9a3f8762 *DESCRIPTION
+4bdb7df76615ccb38c473bbbb95d5357 *NAMESPACE
+8ec7a79b556f490e20596e435ffc8c41 *R/classify_emotion.R
+85a1d299e0d2c9c7fb522efffa0fa3d7 *R/classify_polarity.R
+b7e6d9daf2a9984d5c13fc48b5763e98 *R/create_matrix.R
+ec85c779ab2538eec36b712be042509a *data/datalist
+57c9d00725339cca0f77946ddf12461b *data/emotions.csv.gz
+877c770797712b27094c689373bc51d3 *data/subjectivity.csv.gz
+93076438c37c8b860b96c5ae5975b29c *man/classify_emotion.Rd
+7242b84bdb71277807062b031fa660f3 *man/classify_polarity.Rd
+9857ca67c142d258e7b79eba46960fc2 *man/create_matrix.Rd
+b67ea5af7f7cb4fc3542b0eebb72f681 *man/emotions.Rd
+9f016fbe90f1e5bbed00c1c7482874bd *man/subjectivity.Rd
