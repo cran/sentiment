@@ -73,4 +73,4 @@ stemWords=FALSE, weighting=weightTfIdf)
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
-\keyword{method}
+\keyword{methods}
